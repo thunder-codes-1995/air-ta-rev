@@ -1,0 +1,17 @@
+AV_TRENDS_TABLE_LABELS = {
+    "departure_date": "DATE",
+    "deptTime": "DEP TIME",
+    "maf": "MAF",
+    "market": "O&D",
+    "type": "OW|RT",
+    "weekday": "DOW",
+    "classCode": "CLASS",
+    "fltNum": "OB FLT",
+    "inFltNum": "IB FLT",
+    "lf": "LF",
+    "duration": "DURATION",
+    "is_connecting": "CONNECTION",
+    "connecting_flight_keys": "CONN FLT NUM",
+    "cabinName": "FAMILY",
+    "carrierCode": "CARRIER",
+}

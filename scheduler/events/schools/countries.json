@@ -1,0 +1,386 @@
+[
+  {
+    "text": "Andorra",
+    "href": "https://publicholidays.eu/andorra/"
+  },
+  {
+    "text": "Maldives",
+    "href": "https://publicholidays.asia/maldives/"
+  },
+  {
+    "text": "Argentina",
+    "href": "https://publicholidays.com.ar/"
+  },
+  {
+    "text": "Aruba",
+    "href": "https://publicholidays.la/aruba/"
+  },
+  {
+    "text": "Mauritius",
+    "href": "https://publicholidays.mu/"
+  },
+  {
+    "text": "Austria",
+    "href": "https://publicholidays.at/"
+  },
+  {
+    "text": "Mexico",
+    "href": "https://publicholidays.mx/"
+  },
+  {
+    "text": "Moldova",
+    "href": "https://publicholidays.eu/moldova/"
+  },
+  {
+    "text": "Monaco",
+    "href": "https://publicholidays.eu/monaco/"
+  },
+  {
+    "text": "Barbados",
+    "href": "https://publicholidays.la/barbados/"
+  },
+  {
+    "text": "Belgium",
+    "href": "https://publicholidays.be/"
+  },
+  {
+    "text": "Belize",
+    "href": "https://publicholidays.bz/"
+  },
+  {
+    "text": "Mozambique",
+    "href": "https://publicholidays.africa/mozambique/"
+  },
+  {
+    "text": "Bermuda",
+    "href": "https://publicholidays.la/bermuda/"
+  },
+  {
+    "text": "Namibia",
+    "href": "https://publicholidays.africa/namibia/"
+  },
+  {
+    "text": "Bolivia",
+    "href": "https://publicholidays.com.bo/"
+  },
+  {
+    "text": "Bosnia and Herzegovina",
+    "href": "https://publicholidays.eu/bosnia-and-herzegovina/"
+  },
+  {
+    "text": "New Caledonia",
+    "href": "https://publicholidays.asia/new-caledonia/"
+  },
+  {
+    "text": "New Zealand",
+    "href": "https://publicholidays.co.nz/"
+  },
+  {
+    "text": "Nicaragua",
+    "href": "https://publicholidays.la/nicaragua/"
+  },
+  {
+    "text": "Brunei",
+    "href": "https://publicholidays.asia/brunei/"
+  },
+  {
+    "text": "Bulgaria",
+    "href": "https://publicholidays.bg/"
+  },
+  {
+    "text": "Burkina Faso",
+    "href": "https://publicholidays.africa/burkina-faso/"
+  },
+  {
+    "text": "CÃ´te dâ€™Ivoire",
+    "href": "https://publicholidays.africa/ivory-coast/"
+  },
+  {
+    "text": "Cameroon",
+    "href": "https://publicholidays.africa/cameroon/"
+  },
+  {
+    "text": "Norway",
+    "href": "https://publicholidays.no/"
+  },
+  {
+    "text": "Canada",
+    "href": "https://publicholidays.net/"
+  },
+  {
+    "text": "Cayman Islands",
+    "href": "https://publicholidays.la/cayman-islands/"
+  },
+  {
+    "text": "Panama",
+    "href": "https://publicholidays.com.pa/"
+  },
+  {
+    "text": "Chile",
+    "href": "https://publicholidays.cl/"
+  },
+  {
+    "text": "Papua New Guinea",
+    "href": "https://publicholidays.asia/papua-new-guinea/"
+  },
+  {
+    "text": "China",
+    "href": "https://publicholidays.cn/"
+  },
+  {
+    "text": "Paraguay",
+    "href": "https://publicholidays.com.py/"
+  },
+  {
+    "text": "Philippines",
+    "href": "https://publicholidays.ph/"
+  },
+  {
+    "text": "Colombia",
+    "href": "https://publicholidays.co/"
+  },
+  {
+    "text": "Poland",
+    "href": "https://publicholidays.pl/"
+  },
+  {
+    "text": "Cook Islands",
+    "href": "https://publicholidays.asia/cook-islands/"
+  },
+  {
+    "text": "Portugal",
+    "href": "https://publicholidays.pt/"
+  },
+  {
+    "text": "Costa Rica",
+    "href": "https://publicholidays.co.cr/"
+  },
+  {
+    "text": "Puerto Rico",
+    "href": "https://publicholidays.la/puerto-rico/"
+  },
+  {
+    "text": "Croatia",
+    "href": "https://publicholidays.com.hr/"
+  },
+  {
+    "text": "Qatar",
+    "href": "https://publicholidays.qa/"
+  },
+  {
+    "text": "Cyprus",
+    "href": "https://publicholidays.eu/cyprus/"
+  },
+  {
+    "text": "Romania",
+    "href": "https://publicholidays.ro/"
+  },
+  {
+    "text": "Czech Republic",
+    "href": "https://publicholidays.cz/"
+  },
+  {
+    "text": "Denmark",
+    "href": "https://publicholidays.dk/"
+  },
+  {
+    "text": "Dominican Republic",
+    "href": "https://publicholidays.do/"
+  },
+  {
+    "text": "El Salvador",
+    "href": "https://publicholidays.la/el-salvador/"
+  },
+  {
+    "text": "Samoa",
+    "href": "https://publicholidays.asia/samoa/"
+  },
+  {
+    "text": "Saudi Arabia",
+    "href": "https://publicholidays.me/saudi-arabia/"
+  },
+  {
+    "text": "Estonia",
+    "href": "https://publicholidays.ee/"
+  },
+  {
+    "text": "Seychelles",
+    "href": "https://publicholidays.africa/seychelles/"
+  },
+  {
+    "text": "Singapore",
+    "href": "https://publicholidays.sg/"
+  },
+  {
+    "text": "Sint Maarten",
+    "href": "https://publicholidays.la/sint-maarten/"
+  },
+  {
+    "text": "Fiji",
+    "href": "https://publicholidays.asia/fiji/"
+  },
+  {
+    "text": "Slovenia",
+    "href": "https://publicholidays.eu/slovenia/"
+  },
+  {
+    "text": "France",
+    "href": "https://publicholidays.fr/"
+  },
+  {
+    "text": "Solomon Islands",
+    "href": "https://publicholidays.asia/solomon-islands/"
+  },
+  {
+    "text": "French Polynesia",
+    "href": "https://publicholidays.asia/french-polynesia/"
+  },
+  {
+    "text": "Spain",
+    "href": "https://publicholidays.es/"
+  },
+  {
+    "text": "Germany",
+    "href": "https://publicholidays.de/"
+  },
+  {
+    "text": "Ghana",
+    "href": "https://publicholidays.africa/ghana/"
+  },
+  {
+    "text": "Sweden",
+    "href": "https://publicholidays.se/"
+  },
+  {
+    "text": "Switzerland",
+    "href": "https://publicholidays.ch/"
+  },
+  {
+    "text": "Guam",
+    "href": "https://publicholidays.asia/guam/"
+  },
+  {
+    "text": "Taiwan",
+    "href": "https://publicholidays.tw/"
+  },
+  {
+    "text": "Guatemala",
+    "href": "https://publicholidays.la/guatemala/"
+  },
+  {
+    "text": "Guernsey",
+    "href": "https://publicholidays.eu/guernsey/"
+  },
+  {
+    "text": "The Bahamas",
+    "href": "https://publicholidays.la/the-bahamas/"
+  },
+  {
+    "text": "Guyana",
+    "href": "https://publicholidays.gy/"
+  },
+  {
+    "text": "The Netherlands",
+    "href": "https://publicholidays.nl/"
+  },
+  {
+    "text": "Timor-Leste",
+    "href": "https://publicholidays.asia/timor-leste/"
+  },
+  {
+    "text": "Honduras",
+    "href": "https://publicholidays.la/honduras/"
+  },
+  {
+    "text": "Hong Kong",
+    "href": "https://publicholidays.hk/"
+  },
+  {
+    "text": "Trinidad and Tobago",
+    "href": "https://publicholidays.la/trinidad-and-tobago/"
+  },
+  {
+    "text": "Tunisia",
+    "href": "https://publicholidays.africa/tunisia/"
+  },
+  {
+    "text": "Indonesia",
+    "href": "https://publicholidays.co.id/"
+  },
+  {
+    "text": "Türkiye",
+    "href": "https://publicholidays.me/turkey/"
+  },
+  {
+    "text": "Ireland",
+    "href": "https://publicholidays.ie/"
+  },
+  {
+    "text": "Isle of Man",
+    "href": "https://publicholidays.im/"
+  },
+  {
+    "text": "Uganda",
+    "href": "https://publicholidays.africa/uganda/"
+  },
+  {
+    "text": "Israel",
+    "href": "https://publicholidays.co.il/"
+  },
+  {
+    "text": "Italy",
+    "href": "https://publicholidays.it/"
+  },
+  {
+    "text": "United Arab Emirates (UAE)",
+    "href": "https://publicholidays.ae/"
+  },
+  {
+    "text": "Jersey",
+    "href": "https://publicholidays.eu/jersey/"
+  },
+  {
+    "text": "Uruguay",
+    "href": "https://publicholidays.la/uruguay/"
+  },
+  {
+    "text": "Jordan",
+    "href": "https://publicholidays.me/jordan/"
+  },
+  {
+    "text": "Kenya",
+    "href": "https://publicholidays.africa/kenya/"
+  },
+  {
+    "text": "Vanuatu",
+    "href": "https://publicholidays.asia/vanuatu/"
+  },
+  {
+    "text": "Wallis and Futuna",
+    "href": "https://publicholidays.asia/wallis-and-futuna/"
+  },
+  {
+    "text": "Latvia",
+    "href": "https://publicholidays.lv/"
+  },
+  {
+    "text": "Zambia",
+    "href": "https://publicholidays.africa/zambia/"
+  },
+  {
+    "text": "Zimbabwe",
+    "href": "https://publicholidays.africa/zimbabwe/"
+  },
+  {
+    "text": "Liechtenstein",
+    "href": "https://publicholidays.li/"
+  },
+  {
+    "text": "Lithuania",
+    "href": "https://publicholidays.lt/"
+  },
+  {
+    "text": "Luxembourg",
+    "href": "https://publicholidays.lu/"
+  }
+]

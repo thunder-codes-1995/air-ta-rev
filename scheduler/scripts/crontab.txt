@@ -1,0 +1,19 @@
+# m h  dom mon dow   command
+
+
+
+#create LFA schedule from scraped fares
+10,25,40,55 * * * *  /usr/bin/bash /opt/atarev/scheduler/scripts/create_lfa_schedule.sh
+
+11,26,41,56 * * * * /usr/bin/bash /opt/atarev/scheduler/scripts/create_msd_schedule.sh
+#extract scraped fares
+12,27,42,57 * * * * /usr/bin/bash /opt/atarev/scheduler/scripts/extract_scraped_fares.sh
+
+#before starting scraping, make sure previous script finished
+14 0,6,12,18 * * * pkill -f scrapers_test_script
+#start scraping
+15 0,6,12,18 * * * /usr/bin/bash /opt/atarev/scheduler/scripts/scrape.sh
+
+#optimize flights
+15,30,45,00 * * * * curl -X POST  https://msd-dev.atarev.dev/api/lfa/rules-engine/optimize/network
+

@@ -1,0 +1,7 @@
+BASEDIR=$(dirname "$0")
+S3=s3://atarev-lfa-data/slm/incoming/
+HOST=46.34.90.165
+USERNAME=pyrmprodftp
+PASSWORD=Dlmh60q4hn
+REMOTE_PATH=OUT
+LOCAL_PATH="temp"

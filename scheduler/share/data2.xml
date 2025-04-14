@@ -1,0 +1,59 @@
+<definitions
+    xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"
+    xmlns:wsp="http://www.w3.org/ns/ws-policy"
+    xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy"
+    xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata"
+    xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+    xmlns:tns="http://impl.soap.ws.crane.hititcs.com/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://schemas.xmlsoap.org/wsdl/"
+    targetNamespace="http://impl.soap.ws.crane.hititcs.com/" name="RevenueManagementWSService">
+    <types>
+        <xsd:schema>
+            <xsd:import namespace="http://impl.soap.ws.crane.hititcs.com/"
+                schemaLocation="http://slm-stage.crane.aero:80/CraneRevenueManagementService?xsd=1" />
+        </xsd:schema>
+    </types>
+    <message name="GetRevenueManagement">
+        <part name="parameters" element="tns:GetRevenueManagement" />
+    </message>
+    <message name="GetRevenueManagementResponse">
+        <part name="parameters" element="tns:GetRevenueManagementResponse" />
+    </message>
+    <message name="CraneFault">
+        <part name="fault" element="tns:CraneFault" />
+    </message>
+    <portType name="CraneRevenueManagementService">
+        <operation name="GetRevenueManagement">
+            <input
+                wsam:Action="http://impl.soap.ws.crane.hititcs.com/CraneRevenueManagementService/GetRevenueManagementRequest"
+                message="tns:GetRevenueManagement" />
+            <output
+                wsam:Action="http://impl.soap.ws.crane.hititcs.com/CraneRevenueManagementService/GetRevenueManagementResponse"
+                message="tns:GetRevenueManagementResponse" />
+            <fault message="tns:CraneFault" name="CraneFault"
+                wsam:Action="http://impl.soap.ws.crane.hititcs.com/CraneRevenueManagementService/GetRevenueManagement/Fault/CraneFault" />
+        </operation>
+    </portType>
+    <binding name="CraneRevenueManagementServicePortBinding"
+        type="tns:CraneRevenueManagementService">
+        <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+        <operation name="GetRevenueManagement">
+            <soap:operation soapAction="" />
+            <input>
+                <soap:body use="literal" />
+            </input>
+            <output>
+                <soap:body use="literal" />
+            </output>
+            <fault name="CraneFault">
+                <soap:fault name="CraneFault" use="literal" />
+            </fault>
+        </operation>
+    </binding>
+    <service name="RevenueManagementWSService">
+        <port name="CraneRevenueManagementServicePort"
+            binding="tns:CraneRevenueManagementServicePortBinding">
+            <soap:address location="https://slm-stage.crane.aero/CraneRevenueManagementService" />
+        </port>
+    </service>
+</definitions>

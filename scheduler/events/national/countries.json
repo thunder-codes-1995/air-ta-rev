@@ -1,0 +1,896 @@
+[
+  {
+    "text": "India",
+    "href": "/holidays/india/"
+  },
+  {
+    "text": "United Arab Emirates",
+    "href": "/holidays/uae/"
+  },
+  {
+    "text": "Afghanistan",
+    "href": "/holidays/afghanistan/"
+  },
+  {
+    "text": "Albania",
+    "href": "/holidays/albania/"
+  },
+  {
+    "text": "Algeria",
+    "href": "/holidays/algeria/"
+  },
+  {
+    "text": "American Samoa",
+    "href": "/holidays/american-samoa/"
+  },
+  {
+    "text": "Andorra",
+    "href": "/holidays/andorra/"
+  },
+  {
+    "text": "Angola",
+    "href": "/holidays/angola/"
+  },
+  {
+    "text": "Anguilla",
+    "href": "/holidays/anguilla/"
+  },
+  {
+    "text": "Argentina",
+    "href": "/holidays/argentina/"
+  },
+  {
+    "text": "Armenia",
+    "href": "/holidays/armenia/"
+  },
+  {
+    "text": "Australia",
+    "href": "/holidays/australia/"
+  },
+  {
+    "text": "Austria",
+    "href": "/holidays/austria/"
+  },
+  {
+    "text": "Azerbaijan",
+    "href": "/holidays/azerbaijan/"
+  },
+  {
+    "text": "Bahrain",
+    "href": "/holidays/bahrain/"
+  },
+  {
+    "text": "Bangladesh",
+    "href": "/holidays/bangladesh/"
+  },
+  {
+    "text": "Barbados",
+    "href": "/holidays/barbados/"
+  },
+  {
+    "text": "Belarus",
+    "href": "/holidays/belarus/"
+  },
+  {
+    "text": "Belgium",
+    "href": "/holidays/belgium/"
+  },
+  {
+    "text": "Belize",
+    "href": "/holidays/belize/"
+  },
+  {
+    "text": "Benin",
+    "href": "/holidays/benin/"
+  },
+  {
+    "text": "Bermuda",
+    "href": "/holidays/bermuda/"
+  },
+  {
+    "text": "Bhutan",
+    "href": "/holidays/bhutan/"
+  },
+  {
+    "text": "Bolivia",
+    "href": "/holidays/bolivia/"
+  },
+  {
+    "text": "Bosnia And Herzegovina",
+    "href": "/holidays/bosnia-and-herzegovina/"
+  },
+  {
+    "text": "Botswana",
+    "href": "/holidays/botswana/"
+  },
+  {
+    "text": "Brazil",
+    "href": "/holidays/brazil/"
+  },
+  {
+    "text": "British Virgin Islands",
+    "href": "/holidays/british-virgin-islands/"
+  },
+  {
+    "text": "Brunei",
+    "href": "/holidays/brunei/"
+  },
+  {
+    "text": "Bulgaria",
+    "href": "/holidays/bulgaria/"
+  },
+  {
+    "text": "Burkina Faso",
+    "href": "/holidays/burkina-faso/"
+  },
+  {
+    "text": "Burundi",
+    "href": "/holidays/burundi/"
+  },
+  {
+    "text": "Cabo Verde",
+    "href": "/holidays/cabo-verde/"
+  },
+  {
+    "text": "Cambodia",
+    "href": "/holidays/cambodia/"
+  },
+  {
+    "text": "Cameroon",
+    "href": "/holidays/cameroon/"
+  },
+  {
+    "text": "Canada",
+    "href": "/holidays/canada/"
+  },
+  {
+    "text": "Cayman Islands",
+    "href": "/holidays/cayman-islands/"
+  },
+  {
+    "text": "Central African Republic",
+    "href": "/holidays/central-african-republic/"
+  },
+  {
+    "text": "Chad",
+    "href": "/holidays/chad/"
+  },
+  {
+    "text": "Chile",
+    "href": "/holidays/chile/"
+  },
+  {
+    "text": "China",
+    "href": "/holidays/china/"
+  },
+  {
+    "text": "Colombia",
+    "href": "/holidays/colombia/"
+  },
+  {
+    "text": "Comoros",
+    "href": "/holidays/comoros/"
+  },
+  {
+    "text": "Cook Islands",
+    "href": "/holidays/cook-islands/"
+  },
+  {
+    "text": "Costa Rica",
+    "href": "/holidays/costa-rica/"
+  },
+  {
+    "text": "Croatia",
+    "href": "/holidays/croatia/"
+  },
+  {
+    "text": "Cuba",
+    "href": "/holidays/cuba/"
+  },
+  {
+    "text": "Curacao",
+    "href": "/holidays/curacao/"
+  },
+  {
+    "text": "Cyprus",
+    "href": "/holidays/cyprus/"
+  },
+  {
+    "text": "Czech Republic",
+    "href": "/holidays/czech-republic/"
+  },
+  {
+    "text": "Denmark",
+    "href": "/holidays/denmark/"
+  },
+  {
+    "text": "Djibouti",
+    "href": "/holidays/djibouti/"
+  },
+  {
+    "text": "Dominica",
+    "href": "/holidays/dominica/"
+  },
+  {
+    "text": "Dominican Republic",
+    "href": "/holidays/dominican-republic/"
+  },
+  {
+    "text": "Dr Congo",
+    "href": "/holidays/dr-congo/"
+  },
+  {
+    "text": "Ecuador",
+    "href": "/holidays/ecuador/"
+  },
+  {
+    "text": "Egypt",
+    "href": "/holidays/egypt/"
+  },
+  {
+    "text": "El Salvador",
+    "href": "/holidays/el-salvador/"
+  },
+  {
+    "text": "Equatorial Guinea",
+    "href": "/holidays/equatorial-guinea/"
+  },
+  {
+    "text": "Eritrea",
+    "href": "/holidays/eritrea/"
+  },
+  {
+    "text": "Estonia",
+    "href": "/holidays/estonia/"
+  },
+  {
+    "text": "Eswatini",
+    "href": "/holidays/eswatini/"
+  },
+  {
+    "text": "Ethiopia",
+    "href": "/holidays/ethiopia/"
+  },
+  {
+    "text": "Falkland Islands",
+    "href": "/holidays/falkland-islands/"
+  },
+  {
+    "text": "Faroe Islands",
+    "href": "/holidays/faroe-islands/"
+  },
+  {
+    "text": "Fiji",
+    "href": "/holidays/fiji/"
+  },
+  {
+    "text": "Finland",
+    "href": "/holidays/finland/"
+  },
+  {
+    "text": "France",
+    "href": "/holidays/france/"
+  },
+  {
+    "text": "French Polynesia",
+    "href": "/holidays/french-polynesia/"
+  },
+  {
+    "text": "Gambia",
+    "href": "/holidays/gambia/"
+  },
+  {
+    "text": "Georgia",
+    "href": "/holidays/georgia/"
+  },
+  {
+    "text": "Germany",
+    "href": "/holidays/germany/"
+  },
+  {
+    "text": "Ghana",
+    "href": "/holidays/ghana/"
+  },
+  {
+    "text": "Gibraltar",
+    "href": "/holidays/gibraltar/"
+  },
+  {
+    "text": "Greece",
+    "href": "/holidays/greece/"
+  },
+  {
+    "text": "Greenland",
+    "href": "/holidays/greenland/"
+  },
+  {
+    "text": "Grenada",
+    "href": "/holidays/grenada/"
+  },
+  {
+    "text": "Guam",
+    "href": "/holidays/guam/"
+  },
+  {
+    "text": "Guatemala",
+    "href": "/holidays/guatemala/"
+  },
+  {
+    "text": "Guernsey",
+    "href": "/holidays/guernsey/"
+  },
+  {
+    "text": "Guinea",
+    "href": "/holidays/guinea/"
+  },
+  {
+    "text": "Guinea Bissau",
+    "href": "/holidays/guinea-bissau/"
+  },
+  {
+    "text": "Guyana",
+    "href": "/holidays/guyana/"
+  },
+  {
+    "text": "Haiti",
+    "href": "/holidays/haiti/"
+  },
+  {
+    "text": "Honduras",
+    "href": "/holidays/honduras/"
+  },
+  {
+    "text": "Hong Kong",
+    "href": "/holidays/hong-kong/"
+  },
+  {
+    "text": "Hungary",
+    "href": "/holidays/hungary/"
+  },
+  {
+    "text": "Iceland",
+    "href": "/holidays/iceland/"
+  },
+
+  {
+    "text": "Indonesia",
+    "href": "/holidays/indonesia/"
+  },
+  {
+    "text": "International",
+    "href": "/holidays/international/"
+  },
+  {
+    "text": "Iran",
+    "href": "/holidays/iran/"
+  },
+  {
+    "text": "Iraq",
+    "href": "/holidays/iraq/"
+  },
+  {
+    "text": "Ireland",
+    "href": "/holidays/ireland/"
+  },
+  {
+    "text": "Isle Of Man",
+    "href": "/holidays/isle-of-man/"
+  },
+  {
+    "text": "Italy",
+    "href": "/holidays/italy/"
+  },
+  {
+    "text": "Ivory Coast",
+    "href": "/holidays/ivory-coast/"
+  },
+  {
+    "text": "Jamaica",
+    "href": "/holidays/jamaica/"
+  },
+  {
+    "text": "Japan",
+    "href": "/holidays/japan/"
+  },
+  {
+    "text": "Jersey",
+    "href": "/holidays/jersey/"
+  },
+  {
+    "text": "Jordan",
+    "href": "/holidays/jordan/"
+  },
+  {
+    "text": "Kazakhstan",
+    "href": "/holidays/kazakhstan/"
+  },
+  {
+    "text": "Kenya",
+    "href": "/holidays/kenya/"
+  },
+  {
+    "text": "Kiribati",
+    "href": "/holidays/kiribati/"
+  },
+  {
+    "text": "Kosovo",
+    "href": "/holidays/kosovo/"
+  },
+  {
+    "text": "Kuwait",
+    "href": "/holidays/kuwait/"
+  },
+  {
+    "text": "Kyrgyzstan",
+    "href": "/holidays/kyrgyzstan/"
+  },
+  {
+    "text": "Laos",
+    "href": "/holidays/laos/"
+  },
+  {
+    "text": "Latvia",
+    "href": "/holidays/latvia/"
+  },
+  {
+    "text": "Lebanon",
+    "href": "/holidays/lebanon/"
+  },
+  {
+    "text": "Lesotho",
+    "href": "/holidays/lesotho/"
+  },
+  {
+    "text": "Liberia",
+    "href": "/holidays/liberia/"
+  },
+  {
+    "text": "Libya",
+    "href": "/holidays/libya/"
+  },
+  {
+    "text": "Liechtenstein",
+    "href": "/holidays/liechtenstein/"
+  },
+  {
+    "text": "Lithuania",
+    "href": "/holidays/lithuania/"
+  },
+  {
+    "text": "Luxembourg",
+    "href": "/holidays/luxembourg/"
+  },
+  {
+    "text": "Macau",
+    "href": "/holidays/macau/"
+  },
+  {
+    "text": "Madagascar",
+    "href": "/holidays/madagascar/"
+  },
+  {
+    "text": "Malawi",
+    "href": "/holidays/malawi/"
+  },
+  {
+    "text": "Malaysia",
+    "href": "/holidays/malaysia/"
+  },
+  {
+    "text": "Maldives",
+    "href": "/holidays/maldives/"
+  },
+  {
+    "text": "Mali",
+    "href": "/holidays/mali/"
+  },
+  {
+    "text": "Malta",
+    "href": "/holidays/malta/"
+  },
+  {
+    "text": "Marshall Islands",
+    "href": "/holidays/marshall-islands/"
+  },
+  {
+    "text": "Martinique",
+    "href": "/holidays/martinique/"
+  },
+  {
+    "text": "Mauritania",
+    "href": "/holidays/mauritania/"
+  },
+  {
+    "text": "Mauritius",
+    "href": "/holidays/mauritius/"
+  },
+  {
+    "text": "Mayotte",
+    "href": "/holidays/mayotte/"
+  },
+  {
+    "text": "Mexico",
+    "href": "/holidays/mexico/"
+  },
+  {
+    "text": "Micronesia",
+    "href": "/holidays/micronesia/"
+  },
+  {
+    "text": "Moldova",
+    "href": "/holidays/moldova/"
+  },
+  {
+    "text": "Monaco",
+    "href": "/holidays/monaco/"
+  },
+  {
+    "text": "Mongolia",
+    "href": "/holidays/mongolia/"
+  },
+  {
+    "text": "Montenegro",
+    "href": "/holidays/montenegro/"
+  },
+  {
+    "text": "Montserrat",
+    "href": "/holidays/montserrat/"
+  },
+  {
+    "text": "Morocco",
+    "href": "/holidays/morocco/"
+  },
+  {
+    "text": "Mozambique",
+    "href": "/holidays/mozambique/"
+  },
+  {
+    "text": "Myanmar",
+    "href": "/holidays/myanmar/"
+  },
+  {
+    "text": "Namibia",
+    "href": "/holidays/namibia/"
+  },
+  {
+    "text": "Nauru",
+    "href": "/holidays/nauru/"
+  },
+  {
+    "text": "Nepal",
+    "href": "/holidays/nepal/"
+  },
+  {
+    "text": "Netherlands",
+    "href": "/holidays/netherlands/"
+  },
+  {
+    "text": "New Caledonia",
+    "href": "/holidays/new-caledonia/"
+  },
+  {
+    "text": "New Zealand",
+    "href": "/holidays/new-zealand/"
+  },
+  {
+    "text": "Nicaragua",
+    "href": "/holidays/nicaragua/"
+  },
+  {
+    "text": "Niger",
+    "href": "/holidays/niger/"
+  },
+  {
+    "text": "Nigeria",
+    "href": "/holidays/nigeria/"
+  },
+  {
+    "text": "North Korea",
+    "href": "/holidays/north-korea/"
+  },
+  {
+    "text": "North Macedonia",
+    "href": "/holidays/north-macedonia/"
+  },
+  {
+    "text": "Northern Mariana Islands",
+    "href": "/holidays/northern-mariana-islands/"
+  },
+  {
+    "text": "Norway",
+    "href": "/holidays/norway/"
+  },
+  {
+    "text": "Oman",
+    "href": "/holidays/oman/"
+  },
+  {
+    "text": "Pakistan",
+    "href": "/holidays/pakistan/"
+  },
+  {
+    "text": "Palau",
+    "href": "/holidays/palau/"
+  },
+  {
+    "text": "Panama",
+    "href": "/holidays/panama/"
+  },
+  {
+    "text": "Papua New Guinea",
+    "href": "/holidays/papua-new-guinea/"
+  },
+  {
+    "text": "Paraguay",
+    "href": "/holidays/paraguay/"
+  },
+  {
+    "text": "Peru",
+    "href": "/holidays/peru/"
+  },
+  {
+    "text": "Philippines",
+    "href": "/holidays/philippines/"
+  },
+  {
+    "text": "Poland",
+    "href": "/holidays/poland/"
+  },
+  {
+    "text": "Portugal",
+    "href": "/holidays/portugal/"
+  },
+  {
+    "text": "Puerto Rico",
+    "href": "/holidays/puerto-rico/"
+  },
+  {
+    "text": "Qatar",
+    "href": "/holidays/qatar/"
+  },
+  {
+    "text": "Reunion",
+    "href": "/holidays/reunion/"
+  },
+  {
+    "text": "Romania",
+    "href": "/holidays/romania/"
+  },
+  {
+    "text": "Russia",
+    "href": "/holidays/russia/"
+  },
+  {
+    "text": "Rwanda",
+    "href": "/holidays/rwanda/"
+  },
+  {
+    "text": "Saint Barthelemy",
+    "href": "/holidays/saint-barthelemy/"
+  },
+  {
+    "text": "Saint Helena",
+    "href": "/holidays/saint-helena/"
+  },
+  {
+    "text": "Saint Kitts And Nevis",
+    "href": "/holidays/saint-kitts-and-nevis/"
+  },
+  {
+    "text": "Saint Lucia",
+    "href": "/holidays/saint-lucia/"
+  },
+  {
+    "text": "Saint Martin",
+    "href": "/holidays/saint-martin/"
+  },
+  {
+    "text": "Saint Vincent And The Grenadines",
+    "href": "/holidays/saint-vincent-and-the-grenadines/"
+  },
+  {
+    "text": "Samoa",
+    "href": "/holidays/samoa/"
+  },
+  {
+    "text": "Sao Tome And Principe",
+    "href": "/holidays/sao-tome-and-principe/"
+  },
+  {
+    "text": "Saudi Arabia",
+    "href": "/holidays/saudi-arabia/"
+  },
+  {
+    "text": "Senegal",
+    "href": "/holidays/senegal/"
+  },
+  {
+    "text": "Serbia",
+    "href": "/holidays/serbia/"
+  },
+  {
+    "text": "Seychelles",
+    "href": "/holidays/seychelles/"
+  },
+  {
+    "text": "Sierra Leone",
+    "href": "/holidays/sierra-leone/"
+  },
+  {
+    "text": "Singapore",
+    "href": "/holidays/singapore/"
+  },
+  {
+    "text": "Sint Maarten",
+    "href": "/holidays/sint-maarten/"
+  },
+  {
+    "text": "Slovakia",
+    "href": "/holidays/slovakia/"
+  },
+  {
+    "text": "Slovenia",
+    "href": "/holidays/slovenia/"
+  },
+  {
+    "text": "Solomon Islands",
+    "href": "/holidays/solomon-islands/"
+  },
+  {
+    "text": "Somalia",
+    "href": "/holidays/somalia/"
+  },
+  {
+    "text": "South Africa",
+    "href": "/holidays/south-africa/"
+  },
+  {
+    "text": "South Korea",
+    "href": "/holidays/south-korea/"
+  },
+  {
+    "text": "South Sudan",
+    "href": "/holidays/south-sudan/"
+  },
+  {
+    "text": "Spain",
+    "href": "/holidays/spain/"
+  },
+  {
+    "text": "Sri Lanka",
+    "href": "/holidays/sri-lanka/"
+  },
+  {
+    "text": "Sudan",
+    "href": "/holidays/sudan/"
+  },
+  {
+    "text": "Suriname",
+    "href": "/holidays/suriname/"
+  },
+  {
+    "text": "Sweden",
+    "href": "/holidays/sweden/"
+  },
+  {
+    "text": "Syria",
+    "href": "/holidays/syria/"
+  },
+  {
+    "text": "Taiwan",
+    "href": "/holidays/taiwan/"
+  },
+  {
+    "text": "Tajikistan",
+    "href": "/holidays/tajikistan/"
+  },
+  {
+    "text": "Tanzania",
+    "href": "/holidays/tanzania/"
+  },
+  {
+    "text": "Thailand",
+    "href": "/holidays/thailand/"
+  },
+  {
+    "text": "The Bahamas",
+    "href": "/holidays/the-bahamas/"
+  },
+  {
+    "text": "Timor Leste",
+    "href": "/holidays/timor-leste/"
+  },
+  {
+    "text": "Togo",
+    "href": "/holidays/togo/"
+  },
+  {
+    "text": "Tonga",
+    "href": "/holidays/tonga/"
+  },
+  {
+    "text": "Trinidad And Tobago",
+    "href": "/holidays/trinidad-and-tobago/"
+  },
+  {
+    "text": "Tunisia",
+    "href": "/holidays/tunisia/"
+  },
+  {
+    "text": "Türkiye",
+    "href": "/holidays/turkey/"
+  },
+  {
+    "text": "Turkmenistan",
+    "href": "/holidays/turkmenistan/"
+  },
+  {
+    "text": "Turks And Caicos Islands",
+    "href": "/holidays/turks-and-caicos-islands/"
+  },
+  {
+    "text": "Tuvalu",
+    "href": "/holidays/tuvalu/"
+  },
+
+  {
+    "text": "Uganda",
+    "href": "/holidays/uganda/"
+  },
+  {
+    "text": "United Kingdom",
+    "href": "/holidays/uk/"
+  },
+  {
+    "text": "Ukraine",
+    "href": "/holidays/ukraine/"
+  },
+  {
+    "text": "Uruguay",
+    "href": "/holidays/uruguay/"
+  },
+  {
+    "text": "United States",
+    "href": "/holidays/us/"
+  },
+  {
+    "text": "Us Virgin Islands",
+    "href": "/holidays/us-virgin-islands/"
+  },
+  {
+    "text": "Uzbekistan",
+    "href": "/holidays/uzbekistan/"
+  },
+  {
+    "text": "Vanuatu",
+    "href": "/holidays/vanuatu/"
+  },
+  {
+    "text": "Vatican City",
+    "href": "/holidays/vatican-city/"
+  },
+  {
+    "text": "Venezuela",
+    "href": "/holidays/venezuela/"
+  },
+  {
+    "text": "Vietnam",
+    "href": "/holidays/vietnam/"
+  },
+  {
+    "text": "Wallis And Futuna",
+    "href": "/holidays/wallis-and-futuna/"
+  },
+  {
+    "text": "Yemen",
+    "href": "/holidays/yemen/"
+  },
+  {
+    "text": "Zambia",
+    "href": "/holidays/zambia/"
+  },
+  {
+    "text": "Zimbabwe",
+    "href": "/holidays/zimbabwe/"
+  }
+]

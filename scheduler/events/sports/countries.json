@@ -1,0 +1,630 @@
+[
+  {
+    "text": "Albania",
+    "href": "/Countries/Albania"
+  },
+  {
+    "text": "Andorra",
+    "href": "/Countries/Andorra"
+  },
+  {
+    "text": "Armenia",
+    "href": "/Countries/Armenia"
+  },
+  {
+    "text": "Austria",
+    "href": "/Countries/Austria"
+  },
+  {
+    "text": "Azerbaijan",
+    "href": "/Countries/Azerbaijan"
+  },
+  {
+    "text": "Belarus",
+    "href": "/Countries/Belarus"
+  },
+  {
+    "text": "Belgium",
+    "href": "/Countries/Belgium"
+  },
+  {
+    "text": "Bosnia and Herzegovina",
+    "href": "/Countries/Bosnia-and-Herzegovina"
+  },
+  {
+    "text": "Bulgaria",
+    "href": "/Countries/Bulgaria"
+  },
+  {
+    "text": "Cyprus",
+    "href": "/Countries/Cyprus"
+  },
+  {
+    "text": "Croatia",
+    "href": "/Countries/Croatia"
+  },
+  {
+    "text": "Czech Republic",
+    "href": "/Countries/Czech-Republic"
+  },
+  {
+    "text": "Denmark",
+    "href": "/Countries/Denmark"
+  },
+  {
+    "text": "Estonia",
+    "href": "/Countries/Estonia"
+  },
+  {
+    "text": "Europe",
+    "href": "/Countries/Europe"
+  },
+  {
+    "text": "Faroe Islands",
+    "href": "/Countries/Faroe-Islands"
+  },
+  {
+    "text": "Finland",
+    "href": "/Countries/Finland"
+  },
+  {
+    "text": "France",
+    "href": "/Countries/France"
+  },
+  {
+    "text": "Georgia",
+    "href": "/Countries/Georgia"
+  },
+  {
+    "text": "Germany",
+    "href": "/Countries/Germany"
+  },
+  {
+    "text": "Gibraltar",
+    "href": "/Countries/Gibraltar"
+  },
+  {
+    "text": "Greece",
+    "href": "/Countries/Greece"
+  },
+  {
+    "text": "Greenland",
+    "href": "/Countries/Greenland"
+  },
+  {
+    "text": "Hungary",
+    "href": "/Countries/Hungary"
+  },
+  {
+    "text": "Iceland",
+    "href": "/Countries/Iceland"
+  },
+  {
+    "text": "Ireland",
+    "href": "/Countries/Ireland"
+  },
+  {
+    "text": "Isle Of Man",
+    "href": "/Countries/Isle-Of-Man"
+  },
+  {
+    "text": "Italy",
+    "href": "/Countries/Italy"
+  },
+  {
+    "text": "Kosovo",
+    "href": "/Countries/Kosovo"
+  },
+  {
+    "text": "Latvia",
+    "href": "/Countries/Latvia"
+  },
+  {
+    "text": "Liechtenstein",
+    "href": "/Countries/Liechtenstein"
+  },
+  {
+    "text": "Lithuania",
+    "href": "/Countries/Lithuania"
+  },
+  {
+    "text": "Luxembourg",
+    "href": "/Countries/Luxembourg"
+  },
+  {
+    "text": "Malta",
+    "href": "/Countries/Malta"
+  },
+  {
+    "text": "Moldova",
+    "href": "/Countries/Moldova"
+  },
+  {
+    "text": "Monaco",
+    "href": "/Countries/Monaco"
+  },
+  {
+    "text": "Montenegro",
+    "href": "/Countries/Montenegro"
+  },
+  {
+    "text": "Netherlands",
+    "href": "/Countries/Netherlands"
+  },
+  {
+    "text": "North Macedonia",
+    "href": "/Countries/North-Macedonia"
+  },
+  {
+    "text": "Norway",
+    "href": "/Countries/Norway"
+  },
+  {
+    "text": "Poland",
+    "href": "/Countries/Poland"
+  },
+  {
+    "text": "Portugal",
+    "href": "/Countries/Portugal"
+  },
+  {
+    "text": "Romania",
+    "href": "/Countries/Romania"
+  },
+  {
+    "text": "Russia",
+    "href": "/Countries/Russia"
+  },
+  {
+    "text": "San Marino",
+    "href": "/Countries/San-Marino"
+  },
+  {
+    "text": "Serbia",
+    "href": "/Countries/Serbia"
+  },
+  {
+    "text": "Slovakia",
+    "href": "/Countries/Slovakia"
+  },
+  {
+    "text": "Slovenia",
+    "href": "/Countries/Slovenia"
+  },
+  {
+    "text": "Spain",
+    "href": "/Countries/Spain"
+  },
+  {
+    "text": "Sweden",
+    "href": "/Countries/Sweden"
+  },
+  {
+    "text": "Switzerland",
+    "href": "/Countries/Switzerland"
+  },
+  {
+    "text": "Türkiye",
+    "href": "/Countries/Turkey"
+  },
+  {
+    "text": "Ukraine",
+    "href": "/Countries/Ukraine"
+  },
+  {
+    "text": "United Kingdom",
+    "href": "/Countries/United-Kingdom"
+  },
+  {
+    "text": "Bahrain",
+    "href": "/Countries/Bahrain"
+  },
+  {
+    "text": "Bangladesh",
+    "href": "/Countries/Bangladesh"
+  },
+  {
+    "text": "Brunei",
+    "href": "/Countries/Brunei"
+  },
+  {
+    "text": "Cambodia",
+    "href": "/Countries/Cambodia"
+  },
+  {
+    "text": "China",
+    "href": "/Countries/China"
+  },
+  {
+    "text": "Chinese Taipei",
+    "href": "/Countries/Chinese-Taipei"
+  },
+  {
+    "text": "Hong Kong",
+    "href": "/Countries/Hong-Kong"
+  },
+  {
+    "text": "India",
+    "href": "/Countries/India"
+  },
+  {
+    "text": "Indonesia",
+    "href": "/Countries/Indonesia"
+  },
+  {
+    "text": "Iran",
+    "href": "/Countries/Iran"
+  },
+  {
+    "text": "Israel",
+    "href": "/Countries/Israel"
+  },
+  {
+    "text": "Japan",
+    "href": "/Countries/Japan"
+  },
+  {
+    "text": "Jordan",
+    "href": "/Countries/Jordan"
+  },
+  {
+    "text": "Kazakhstan",
+    "href": "/Countries/Kazakhstan"
+  },
+  {
+    "text": "Kyrgyzstan",
+    "href": "/Countries/Kyrgyzstan"
+  },
+  {
+    "text": "Kuwait",
+    "href": "/Countries/Kuwait"
+  },
+  {
+    "text": "Lebanon",
+    "href": "/Countries/Lebanon"
+  },
+  {
+    "text": "Macao",
+    "href": "/Countries/Macao"
+  },
+  {
+    "text": "Malaysia",
+    "href": "/Countries/Malaysia"
+  },
+  {
+    "text": "Maldives",
+    "href": "/Countries/Maldives"
+  },
+  {
+    "text": "Mongolia",
+    "href": "/Countries/Mongolia"
+  },
+  {
+    "text": "North Korea",
+    "href": "/Countries/North-Korea"
+  },
+  {
+    "text": "Oman",
+    "href": "/Countries/Oman"
+  },
+  {
+    "text": "Pakistan",
+    "href": "/Countries/Pakistan"
+  },
+  {
+    "text": "Philippines",
+    "href": "/Countries/Philippines"
+  },
+  {
+    "text": "Qatar",
+    "href": "/Countries/Qatar"
+  },
+  {
+    "text": "Saudi Arabia",
+    "href": "/Countries/Saudi-Arabia"
+  },
+  {
+    "text": "Singapore",
+    "href": "/Countries/Singapore"
+  },
+  {
+    "text": "South Korea",
+    "href": "/Countries/South-Korea"
+  },
+  {
+    "text": "Sri Lanka",
+    "href": "/Countries/Sri-Lanka"
+  },
+  {
+    "text": "Tajikistan",
+    "href": "/Countries/Tajikistan"
+  },
+  {
+    "text": "Thailand",
+    "href": "/Countries/Thailand"
+  },
+  {
+    "text": "Turkmenistan",
+    "href": "/Countries/Turkmenistan"
+  },
+  {
+    "text": "United Arab Emirates",
+    "href": "/Countries/United-Arab-Emirates"
+  },
+  {
+    "text": "Uzbekistan",
+    "href": "/Countries/Uzbekistan"
+  },
+  {
+    "text": "Vietnam",
+    "href": "/Countries/Vietnam"
+  },
+  {
+    "text": "Algeria",
+    "href": "/Countries/Algeria"
+  },
+  {
+    "text": "Angola",
+    "href": "/Countries/Angola"
+  },
+  {
+    "text": "Botswana",
+    "href": "/Countries/Botswana"
+  },
+  {
+    "text": "Cabo Verde",
+    "href": "/Countries/Cabo-Verde"
+  },
+  {
+    "text": "Cameroon",
+    "href": "/Countries/Cameroon"
+  },
+  {
+    "text": "Egypt",
+    "href": "/Countries/Egypt"
+  },
+  {
+    "text": "Equatorial Guinea",
+    "href": "/Countries/Equatorial-Guinea"
+  },
+  {
+    "text": "Gabon",
+    "href": "/Countries/Gabon"
+  },
+  {
+    "text": "Ghana",
+    "href": "/Countries/Ghana"
+  },
+  {
+    "text": "Guinea",
+    "href": "/Countries/Guinea"
+  },
+  {
+    "text": "Ivory Coast",
+    "href": "/Countries/Ivory-Coast"
+  },
+  {
+    "text": "Kenya",
+    "href": "/Countries/Kenya"
+  },
+  {
+    "text": "Lesotho",
+    "href": "/Countries/Lesotho"
+  },
+  {
+    "text": "Libya",
+    "href": "/Countries/Libya"
+  },
+  {
+    "text": "Mali",
+    "href": "/Countries/Mali"
+  },
+  {
+    "text": "Morocco",
+    "href": "/Countries/Morocco"
+  },
+  {
+    "text": "Mozambique",
+    "href": "/Countries/Mozambique"
+  },
+  {
+    "text": "Namibia",
+    "href": "/Countries/Namibia"
+  },
+  {
+    "text": "Nigeria",
+    "href": "/Countries/Nigeria"
+  },
+  {
+    "text": "Republic of the Congo",
+    "href": "/Countries/Republic-of-the-Congo"
+  },
+  {
+    "text": "Rwanda",
+    "href": "/Countries/Rwanda"
+  },
+  {
+    "text": "Seychelles",
+    "href": "/Countries/Seychelles"
+  },
+  {
+    "text": "Senegal",
+    "href": "/Countries/Senegal"
+  },
+  {
+    "text": "South Africa",
+    "href": "/Countries/South-Africa"
+  },
+  {
+    "text": "Tunisia",
+    "href": "/Countries/Tunisia"
+  },
+  {
+    "text": "Uganda",
+    "href": "/Countries/Uganda"
+  },
+  {
+    "text": "Zambia",
+    "href": "/Countries/Zambia"
+  },
+  {
+    "text": "Zimbabwe",
+    "href": "/Countries/Zimbabwe"
+  },
+  {
+    "text": "Antigua and Barbuda",
+    "href": "/Countries/Antigua-and-Barbuda"
+  },
+  {
+    "text": "Bahamas",
+    "href": "/Countries/Bahamas"
+  },
+  {
+    "text": "Bermuda",
+    "href": "/Countries/Bermuda"
+  },
+  {
+    "text": "Canada",
+    "href": "/Countries/Canada"
+  },
+  {
+    "text": "Costa Rica",
+    "href": "/Countries/Costa-Rica"
+  },
+  {
+    "text": "Cuba",
+    "href": "/Countries/Cuba"
+  },
+  {
+    "text": "Dominican Republic",
+    "href": "/Countries/Dominican-Republic"
+  },
+  {
+    "text": "El Salvador",
+    "href": "/Countries/El-Salvador"
+  },
+  {
+    "text": "Guatemala",
+    "href": "/Countries/Guatemala"
+  },
+  {
+    "text": "Jamaica",
+    "href": "/Countries/Jamaica"
+  },
+  {
+    "text": "Mexico",
+    "href": "/Countries/Mexico"
+  },
+  {
+    "text": "Nicaragua",
+    "href": "/Countries/Nicaragua"
+  },
+  {
+    "text": "Panama",
+    "href": "/Countries/Panama"
+  },
+  {
+    "text": "Puerto Rico",
+    "href": "/Countries/Puerto-Rico"
+  },
+  {
+    "text": "Saint Kitts and Nevis",
+    "href": "/Countries/Saint-Kitts-and-Nevis"
+  },
+  {
+    "text": "Saint Lucia",
+    "href": "/Countries/Saint-Lucia"
+  },
+  {
+    "text": "Trinidad and Tobago",
+    "href": "/Countries/Trinidad-and-Tobago"
+  },
+  {
+    "text": "United States",
+    "href": "/Countries/United-States"
+  },
+  {
+    "text": "Virgin Islands of the United States",
+    "href": "/Countries/Virgin-Islands-of-the-United-States"
+  },
+  {
+    "text": "Argentina",
+    "href": "/Countries/Argentina"
+  },
+  {
+    "text": "Bolivia",
+    "href": "/Countries/Bolivia"
+  },
+  {
+    "text": "Brazil",
+    "href": "/Countries/Brazil"
+  },
+  {
+    "text": "Chile",
+    "href": "/Countries/Chile"
+  },
+  {
+    "text": "Colombia",
+    "href": "/Countries/Colombia"
+  },
+  {
+    "text": "Ecuador",
+    "href": "/Countries/Ecuador"
+  },
+  {
+    "text": "Guyana",
+    "href": "/Countries/Guyana"
+  },
+  {
+    "text": "Paraguay",
+    "href": "/Countries/Paraguay"
+  },
+  {
+    "text": "Peru",
+    "href": "/Countries/Peru"
+  },
+  {
+    "text": "Uruguay",
+    "href": "/Countries/Uruguay"
+  },
+  {
+    "text": "Venezuela",
+    "href": "/Countries/Venezuela"
+  },
+  {
+    "text": "Australia",
+    "href": "/Countries/Australia"
+  },
+  {
+    "text": "Fiji",
+    "href": "/Countries/Fiji"
+  },
+  {
+    "text": "New Caledonia",
+    "href": "/Countries/New-Caledonia"
+  },
+  {
+    "text": "New Zealand",
+    "href": "/Countries/New-Zealand"
+  },
+  {
+    "text": "Papua New Guinea",
+    "href": "/Countries/Papua-New-Guinea"
+  },
+  {
+    "text": "Samoa",
+    "href": "/Countries/Samoa"
+  },
+  {
+    "text": "Solomon Islands",
+    "href": "/Countries/Solomon-Islands"
+  },
+  {
+    "text": "Tahiti",
+    "href": "/Countries/Tahiti"
+  },
+  {
+    "text": "Tonga",
+    "href": "/Countries/Tonga"
+  }
+]

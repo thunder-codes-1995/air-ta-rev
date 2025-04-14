@@ -1,0 +1,17 @@
+PE_TABLE_LABELS = {
+    "carrierCode": "CARRIER",
+    "dtd": "DTD",
+    "time": "DEP TIME",
+    "fare": "FARE",
+    "market": "O&D",
+    "type": "OW|RT",
+    "weekday": "DOW",
+    "classCode": "CLASS",
+    "fltNum": "OB FLT",
+    "inFltNum": "IB FLT",
+    "lf": "LF",
+    "duration": "DURATION",
+    "is_connecting": "CONNECTION",
+    "connecting_flight_keys": "CONN FLT NUM",
+    "cabinName": "FAMILY",
+}

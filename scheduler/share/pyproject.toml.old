@@ -1,0 +1,24 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "atarev-shared"
+version = "0.0.1"
+description = "Shared library"
+authors = [ "John Doe" ]
+packages = [
+  {include = "core"},
+  {include = "handlers"},
+  {include = "me_models"},
+  {include = "services"},
+  {include = "typs"},
+  {include = "utils"}
+]
+
+
+[tool.poetry.dependencies]
+
+[tool.poetry.dev-dependencies]
+
+

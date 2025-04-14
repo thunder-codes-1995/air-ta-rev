@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+.idea
+
+.env
+.venv
+env/
+venv/
+*.mongodb
+*.ipynb
+*.csv
+*.tag
+*.log
